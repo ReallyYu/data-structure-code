@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9c09db2-e50a-411c-8d13-06f9ea5f5678" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-struct/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/graph/GraphMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/tree/BinNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/tree/BinTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-struct/src/test/java/com/really/data/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learn-maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/really/leetcode/Appication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/really/leetcode/Graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/test/java/com/really/leetcode/Appication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/leetcode/target/" />
+    <ignored path="$PROJECT_DIR$/data-struct/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-struct/src/main/java/com/really/data/graph/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-struct/src/main/java/com/really/data/graph/GraphMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3492#3493#0" expanded="true" />
+                <element signature="e#3546#3547#0" expanded="true" />
+                <element signature="e#3581#3582#0" expanded="true" />
+                <element signature="e#3633#3634#0" expanded="true" />
+                <element signature="e#3672#3673#0" expanded="true" />
+                <element signature="e#3726#3727#0" expanded="true" />
+                <element signature="e#3870#3871#0" expanded="true" />
+                <element signature="e#3897#3898#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-struct/src/main/java/com/really/data/tree/BinNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="e#1250#1251#0" expanded="true" />
+                <element signature="e#1292#1293#0" expanded="true" />
+                <element signature="e#1341#1342#0" expanded="true" />
+                <element signature="e#1407#1408#0" expanded="true" />
+                <element signature="e#1442#1443#0" expanded="true" />
+                <element signature="e#1508#1509#0" expanded="true" />
+                <element signature="e#1562#1563#0" expanded="true" />
+                <element signature="e#1592#1593#0" expanded="true" />
+                <element signature="e#1643#1644#0" expanded="true" />
+                <element signature="e#1684#1685#0" expanded="true" />
+                <element signature="e#1730#1731#0" expanded="true" />
+                <element signature="e#1766#1767#0" expanded="true" />
+                <element signature="e#1816#1817#0" expanded="true" />
+                <element signature="e#1868#1869#0" expanded="true" />
+                <element signature="e#1921#1922#0" expanded="true" />
+                <element signature="e#1973#1974#0" expanded="true" />
+                <element signature="e#2020#2021#0" expanded="true" />
+                <element signature="e#2043#2044#0" expanded="true" />
+                <element signature="e#2102#2103#0" expanded="true" />
+                <element signature="e#2165#2166#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data-struct/src/main/java/com/really/data/tree/BinTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="573">
+              <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+              <folding>
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#1108#1109#0" expanded="true" />
+                <element signature="e#1159#1160#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+                <element signature="e#1083#1084#0" expanded="true" />
+                <element signature="e#1121#1122#0" expanded="true" />
+                <element signature="e#1148#1149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(int)</find>
+      <find>public</find>
+      <find>= 0;</find>
+      <find>V[n]</find>
+      <find>remove</find>
+      <find>vertices.</find>
+      <find>E.</find>
+      <find>VST&amp;</find>
+      <find>癿</find>
+      <find>(x)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>(int n)</replace>
+      <replace>int[]</replace>
+      <replace />
+      <replace>;</replace>
+      <replace>V.get(i)</replace>
+      <replace>vertices.</replace>
+      <replace>this.vertices.</replace>
+      <replace>this.edges.</replace>
+      <replace>BinNode.</replace>
+      <replace>BinNode</replace>
+      <replace>的</replace>
+      <replace>(BinNode tree)</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/leetcode/src/test/java/leetcode/Appication.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/test/java/com/really/leetcode/Appication.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/really/leetcode/Graph/Graph.java" />
+        <option value="$PROJECT_DIR$/data-struct/src/test/java/data/Application.java" />
+        <option value="$PROJECT_DIR$/data-struct/src/test/java/com/really/data/Application.java" />
+        <option value="$PROJECT_DIR$/data-struct/src/test/java/com/really/data/ApplicationTests.java" />
+        <option value="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/Graph/Graph.java" />
+        <option value="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/Graph/GraphMatrix.java" />
+        <option value="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/graph/GraphMatrix.java" />
+        <option value="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/tree/BinNode.java" />
+        <option value="$PROJECT_DIR$/data-struct/src/main/java/com/really/data/tree/BinTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="8" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnmaven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn-maven" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data-struct/src/test/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\learn-maven\data-struct\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9c09db2-e50a-411c-8d13-06f9ea5f5678" name="Default Changelist" comment="" />
+      <created>1609991138514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609991138514</updated>
+      <workItem from="1609991142809" duration="12307000" />
+      <workItem from="1610111153879" duration="3128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15435000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.253212" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/really/leetcode/Graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-struct/src/test/java/com/really/data/ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/really/leetcode/Appication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/test/java/com/really/leetcode/Appication.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-struct/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-struct/src/main/java/com/really/data/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-struct/src/main/java/com/really/data/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" column="43" selection-start-line="51" selection-start-column="43" selection-end-line="51" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-struct/src/main/java/com/really/data/graph/GraphMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3492#3493#0" expanded="true" />
+            <element signature="e#3546#3547#0" expanded="true" />
+            <element signature="e#3581#3582#0" expanded="true" />
+            <element signature="e#3633#3634#0" expanded="true" />
+            <element signature="e#3672#3673#0" expanded="true" />
+            <element signature="e#3726#3727#0" expanded="true" />
+            <element signature="e#3870#3871#0" expanded="true" />
+            <element signature="e#3897#3898#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-struct/src/main/java/com/really/data/tree/BinNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#1250#1251#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1341#1342#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+            <element signature="e#1442#1443#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1592#1593#0" expanded="true" />
+            <element signature="e#1643#1644#0" expanded="true" />
+            <element signature="e#1684#1685#0" expanded="true" />
+            <element signature="e#1730#1731#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1816#1817#0" expanded="true" />
+            <element signature="e#1868#1869#0" expanded="true" />
+            <element signature="e#1921#1922#0" expanded="true" />
+            <element signature="e#1973#1974#0" expanded="true" />
+            <element signature="e#2020#2021#0" expanded="true" />
+            <element signature="e#2043#2044#0" expanded="true" />
+            <element signature="e#2102#2103#0" expanded="true" />
+            <element signature="e#2165#2166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-struct/src/main/java/com/really/data/tree/BinTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#1108#1109#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1083#1084#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>datastruct</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
