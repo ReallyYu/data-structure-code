@@ -154,6 +154,7 @@ public class GraphMatrix<T,E> implements Graph<T, E> {
 
     }
 
+    // deep first search
     public void dfs(int n) {
 
     }

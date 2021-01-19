@@ -11,6 +11,7 @@
     <modules>
         <module>leetcode</module>
         <module>data-struct</module>
+        <module>excel</module>
     </modules>
 
     <dependencies>
